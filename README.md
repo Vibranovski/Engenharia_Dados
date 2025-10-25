@@ -18,6 +18,7 @@
 | [Estrutura do Repositório](#-estrutura-do-repositório)|
 | [Tecnologias Utilizadas](#-tecnologias-utilizadas)|
 | [Bibliotecas Utilizadas](#-bibliotecas-utilizadas)|
+| [Executando em cloud](#-executando-em-cloud)|
 | [Licença/License](#-licençalicense)|
 | [Referências](#-referências)|
 | [Agradecimentos](#-agradecimentos)|
@@ -45,18 +46,15 @@ Este repositório trata-se do projeto de engenharia de dados, aplicando conceito
 ## 📁 Estrutura do Repositório
 
 ```
-├── 📁 dataset
-├── 📝 MVP_ED.ipynb
+├── 📝 MVP_Eng_Dados.ipynb
 ├── 📝 README.md
-
 ```
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>README.md</b>: Arquivo que serve como guia e explicação geral sobre o projeto (arquivo atual).
-- <b>MVP_ED.ipnyb</b>: Notebook com a análise exploratória e pipeline de processamento dos dados.
-- <b>dataset</b>: Arquivos utilizados no projeto.
-  - [Global AI Job Market & Salary Trends 2025](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025).
+- <b>MVP_Eng_Dados.ipnyb</b>: Notebook com a análise exploratória e pipeline de processamento dos dados.
+- [Global AI Job Market & Salary Trends 2025](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025).
 
 
 ## 👨‍💻 Tecnologias Utilizadas
@@ -95,7 +93,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 1. Clone este repositório em sua máquina local:
 
     ```
-    git clone https://github.com/Vibranovski/#
+    git clone https://github.com/Vibranovski/Engenharia_Dados
     ```
 
 3. Abra o arquivo no Databricks ou em um ambiente local com suporte a Jupyter Notebooks.
