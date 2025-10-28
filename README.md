@@ -18,6 +18,7 @@
 | [Estrutura do Repositório](#-estrutura-do-repositório)|
 | [Tecnologias Utilizadas](#-tecnologias-utilizadas)|
 | [Bibliotecas Utilizadas](#-bibliotecas-utilizadas)|
+| [Instruções para execução do projeto](#️-instruções-para-execução-do-projeto)|
 | [Executando em cloud](#-executando-em-cloud)|
 | [Licença/License](#-licençalicense)|
 | [Referências](#-referências)|
