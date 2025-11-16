@@ -47,7 +47,9 @@ Este repositório trata-se do projeto de engenharia de dados, aplicando conceito
 ## 📁 Estrutura do Repositório
 
 ```
-├── 📝 MVP_Eng_Dados.ipynb
+├── 📝 DATABRICKS - MVP Eng. Dados.ipynb
+├── 📝 LOCAL - MVP Eng. Dados.ipynb
+├── 📝 3 MVPs juntos - Analise-ML-EngDados.ipynb
 ├── 📝 README.md
 ```
 
